@@ -1,0 +1,2 @@
+# ClipboardTranslate
+コピペした内容を翻訳するスクリプト
